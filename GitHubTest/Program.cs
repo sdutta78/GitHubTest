@@ -8,6 +8,7 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Logging;
 //Added a single line comment
+//Added second comment
 
 namespace GitHubTest
 {
